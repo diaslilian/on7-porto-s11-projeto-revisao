@@ -119,6 +119,7 @@ Primeiramente, iremos criar uma pasta chamada “src” (de “source”) na rai
 jansensfilms
 ├── src
 │   ├── controllers
+|   |     ├── teste
 │   ├── models
 │   ├── routes
 ├── package.json
